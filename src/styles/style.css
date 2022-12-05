@@ -103,7 +103,7 @@ body {
 
 .features__container {
     height: 388px;
-    background-image: url(../images/bg.png);
+    background-image: url(../../src/images/bg.png);
     background-repeat: no-repeat;
     background-position: center;
 }
